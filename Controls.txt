@@ -1,0 +1,5 @@
+A - To go left
+D - To go right
+
+K - To fly
+L - To come down
