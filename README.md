@@ -3,7 +3,7 @@ Simple game
 
 This game has been made following the tutoirals provided by a youtube channel called Brackeys (https://www.youtube.com/c/Brackeys)
 
-A simple 3-D game with simple movements and minimalist design. 
+A simple 3-D game with simple movements and minimalist design. Just download the mysetup.exe and install.
 
 ![alt text](https://github.com/tottopath/Cubology/blob/main/3.jpg)
 ![alt text](https://github.com/tottopath/Cubology/blob/main/1.jpg)
